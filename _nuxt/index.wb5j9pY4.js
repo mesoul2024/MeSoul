@@ -1,1 +1,0 @@
-import{t as l,N as m}from"./entry.I9D4H5e1.js";function f(e,a){const{title:r,titleTemplate:n,...o}=e;return l({title:r,titleTemplate:n,_flatMeta:o},{...a,transform(t){const s=m({...t._flatMeta});return delete t._flatMeta,{...t,meta:s}}})}export{f as u};
